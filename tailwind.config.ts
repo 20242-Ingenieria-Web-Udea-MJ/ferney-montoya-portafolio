@@ -10,6 +10,8 @@ const config: Config = {
     extend: {
       fontSize: {
         'xxs': '10px',
+        'xxxl': '48px',
+        'big-icon': '230px'
       },
       colors: {
         background: "var(--background)",

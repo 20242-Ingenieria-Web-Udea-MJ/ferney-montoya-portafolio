@@ -11,7 +11,7 @@ const SideBar = ({position}: {position: string}) => {
 
   return (
     <aside
-      className={`w-72 h-full fixed z-20 overflow-y-auto ${position} bg-white p-6 transition-all duration-500 ease-in-out transform`}
+      className={`w-72 h-full fixed z-20 overflow-y-auto ${position} bg-white p-6 transition-all duration-500 ease-in-out transform md:static md:overflow-y-auto`}
     >
       <ProfilePerson></ProfilePerson>
       <DivisorBar></DivisorBar>
