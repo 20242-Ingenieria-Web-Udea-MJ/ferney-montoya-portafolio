@@ -1,3 +1,5 @@
+"use client"
+
 import SideBar from "@components/organisms/SideBar/index";
 import ShowSideBarButton from "@components/atoms/ShowSideBarButton/index";
 import { useState } from "react";
