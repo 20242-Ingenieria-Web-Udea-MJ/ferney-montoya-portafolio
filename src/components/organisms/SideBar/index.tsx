@@ -6,10 +6,8 @@ import Languages from "@components/molecules/Languages/index";
 import ProgrammingLanguages from "@components/molecules/ProgrammingLanguages/index";
 import ExtraSkills from "@components/molecules/ExtraSkills/index";
 import DivisorBar from "@components/atoms/DivisorBar/index";
-import { usePosition } from "@/context/SideBarContext";
 
-const SideBar = () => {
-  const { position } = usePosition();
+const SideBar = ({position}: {position: string}) => {
 
   return (
     <aside
