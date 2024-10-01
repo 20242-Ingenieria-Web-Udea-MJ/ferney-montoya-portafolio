@@ -15,7 +15,7 @@ const SecudaryContent = () => {
   return (
     <div>
       <SideBar position={position} ></SideBar>
-      <ShowSideBarButton togglePosition={togglePosition} ></ShowSideBarButton>
+      <ShowSideBarButton togglePosition={togglePosition}></ShowSideBarButton>
     </div>
   );
 };

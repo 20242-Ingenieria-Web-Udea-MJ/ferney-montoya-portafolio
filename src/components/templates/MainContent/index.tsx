@@ -4,6 +4,7 @@ import KnowledgeSecction from "@components/organisms/KnowledgeSecction/index";
 import PortfolioSection from "@components/organisms/PortfolioSection/index";
 
 import { NormalText, MainTitle } from "@components/atoms/Texts/index";
+import SocialMediaList from "@components/molecules/SocialMediaList/index";
 
 const MainContent = () => {
   return (
@@ -39,6 +40,9 @@ const MainContent = () => {
         </div>
       </div>
       <PortfolioSection></PortfolioSection>
+      <div className="mt-16">
+        <SocialMediaList></SocialMediaList>
+      </div>
     </div>
   );
 };
