@@ -16,7 +16,7 @@ const Carousel = ({ children }: { children: React.ReactNode }) => {
     autoplaySpeed: 5000,
     responsive: [
       {
-        breakpoint: 1000, // Pantallas grandes
+        breakpoint: 1000,
         settings: {
           slidesToShow: 1, 
         },

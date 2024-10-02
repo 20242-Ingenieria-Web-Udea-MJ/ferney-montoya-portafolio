@@ -8,7 +8,7 @@ import SocialMediaList from "@components/molecules/SocialMediaList/index";
 
 const MainContent = () => {
   return (
-    <div className="w-full overflow-x-hidden md:w-auto md:flex">
+    <div className="w-full md:relative overflow-x-hidden md:w-auto md:flex">
       <div className="w-full overflow-x-hidden md:w-auto md:px-8">
         <Hero></Hero>
 

@@ -8,17 +8,20 @@ const PortFolioSection = () => {
       <PortfolioCard
         img={restoPicture}
         text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna "
-        title="How to make web tempates"
+        title="How to make web templates"
+        githubUrl="https://github.com/user/repo1" // URL del repositorio
       />
       <PortfolioCard
         img={restoPicture}
         text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna "
-        title="How to make web tempates"
+        title="Another Project"
+        githubUrl="https://github.com/user/repo2" // URL del repositorio
       />
       <PortfolioCard
         img={restoPicture}
         text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna "
-        title="How to make web tempates"
+        title="Portfolio Card"
+        githubUrl="https://github.com/user/repo3" // URL del repositorio
       />
     </Carousel>
   );
