@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Mi Portafolio Personal
 
-## Getting Started
+Este es mi portafolio personal creado como parte de un proyecto académico. El diseño está basado en un prototipo de Figma y fue implementado utilizando las tecnologías más recientes para asegurar una interfaz moderna, eficiente y responsiva.
 
-First, run the development server:
+## Tecnologías Utilizadas
+- **Next.js**: Framework de React para la construcción de aplicaciones web.
+- **Tailwind CSS**: Utilizado para el diseño y la personalización de la interfaz de usuario.
+- **TypeScript**: Para tipado estático y mejora de la calidad del código.
+- **Icons**: Uso de íconos para enriquecer la interfaz, obtenidos de [Flaticon](https://www.flaticon.com/) y [Iconify](https://iconify.design/).
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Funcionalidades Principales
+- **Responsive Design**: La aplicación es completamente responsiva, adaptándose tanto a dispositivos móviles como a pantallas más grandes.
+- **Animaciones**: Agregué animaciones a varios componentes del portafolio para mejorar la experiencia del usuario.
+- **Carrusel en la Sección de Portafolio**: Los proyectos en el portafolio se muestran en un carrusel con desplazamiento horizontal, y cada card incluye un botón que abre un modal con más detalles del proyecto.
+- **Secciones del Proyecto**:
+  - **Menú Fijo Izquierdo**: Contiene información personal, datos de contacto, idiomas y lenguajes de programación con su respectivo porcentaje de dominio.
+  - **Perfil**: Presentación con nombre, foto y una breve descripción del perfil profesional.
+  - **Conocimientos**: Lista de habilidades con títulos, descripciones y un ícono representativo.
+  - **Educación**: Historial educativo con detalles de instituciones, fechas y títulos obtenidos.
+  - **Portafolio**: Muestra de proyectos con imagen, descripción y botón "learn more" para ver más detalles en un modal.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Despliegue
+El proyecto ha sido desplegado en [Vercel](https://vercel.com), permitiendo su fácil acceso y navegación. Puedes visitar el portafolio en el siguiente enlace: [Portafolio en Vercel](https://ferney-montoya-portafolio-next-js.vercel.app).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Cómo Ejecutar el Proyecto Localmente
+Si deseas ejecutar este proyecto localmente, sigue estos pasos:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/tu-portafolio.git
