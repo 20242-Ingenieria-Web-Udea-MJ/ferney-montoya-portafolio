@@ -1,22 +1,26 @@
 export const ProgrammingLanguagesList = [
   {
-    language: "HTML",
+    language: "React",
     percentage: "90%",
   },
   {
-    language: "CSS",
+    language: "NextJS",
     percentage: "85%",
   },
   {
     language: "JS",
-    percentage: "80%",
+    percentage: "90%",
   },
   {
-    language: "PHP",
+    language: "TypeScrip",
     percentage: "75%",
   },
   {
-    language: "WordPress",
-    percentage: "85%",
+    language: "Java",
+    percentage: "60%",
+  },
+  {
+    language: "Angular",
+    percentage: "45%",
   },
 ];

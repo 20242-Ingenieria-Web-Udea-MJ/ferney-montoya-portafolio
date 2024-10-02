@@ -8,19 +8,19 @@ const ExtraSkills = () => {
       <ul>
         <li className="flex items-center">
           <Icon icon="tabler:squares" color="#0093ff" className="mr-3"></Icon>
-          <NormalText>Bootstrap, Materialize</NormalText>
+          <NormalText>Tailwind, Bootstrap</NormalText>
         </li>
         <li className="flex items-center">
           <Icon icon="tabler:squares" color="#0093ff" className="mr-3"></Icon>
-          <NormalText>Stylus, Sass, Less</NormalText>
+          <NormalText>Semantic HTML, CSS BEM</NormalText>
         </li>
         <li className="flex items-center">
           <Icon icon="tabler:squares" color="#0093ff" className="mr-3"></Icon>
-          <NormalText>Gulp, Webpack, Grunt</NormalText>
+          <NormalText>EC2, S3, AWS</NormalText>
         </li>
         <li className="flex items-center">
           <Icon icon="tabler:squares" color="#0093ff" className="mr-3"></Icon>
-          <NormalText>GIT Knowledge</NormalText>
+          <NormalText>GIT and Github Actions</NormalText>
         </li>
       </ul>
     </div>

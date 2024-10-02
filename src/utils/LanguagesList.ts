@@ -1,14 +1,10 @@
 export const LanguagesList = [
   {
-    laguage: 'Bangla',
+    laguage: 'Spanish',
     percentage: '100%'
   },
   {
     laguage: 'English',
-    percentage: '80%'
-  },
-  {
-    laguage: 'Spanish',
-    percentage: '60%'
+    percentage: '65%'
   },
 ];

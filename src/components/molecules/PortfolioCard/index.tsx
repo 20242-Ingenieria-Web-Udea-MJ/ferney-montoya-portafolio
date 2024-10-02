@@ -45,7 +45,8 @@ const PortfolioCard = ({
         onClose={handleCloseModal}
         title={title}
         content={text}
-        githubUrl={githubUrl} // pasamos la URL del repositorio al modal
+        githubUrl={githubUrl} 
+        img={img} 
       />
     </article>
   );

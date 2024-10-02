@@ -17,9 +17,8 @@ const MainContent = () => {
             <MainTitle>My Knowledge</MainTitle>
             <div className="md:w-1/2 md:mx-auto">
               <NormalText>
-                Amet minim mollit non deserunt ullamco est sit aliqua dolor do
-                amet sint. Velit officia consequat duis enim velit mollit. lorem
-                ipsum
+                I focus on enhancing user experience and web development through
+                constant growth and innovative solutions.
               </NormalText>
             </div>
           </div>
@@ -28,9 +27,9 @@ const MainContent = () => {
             <MainTitle>Education</MainTitle>
             <div className="md:w-1/2 md:mx-auto">
               <NormalText>
-                Amet minim mollit non deserunt ullamco est sit aliqua dolor do
-                amet sint. Velit officia consequat duis enim velit mollit. lorem
-                ipsum
+                I have completed courses in web and mobile development, focusing
+                on both frontend and backend skills. I am also currently
+                pursuing a degree in Systems Engineering.
               </NormalText>
             </div>
           </div>
@@ -42,9 +41,10 @@ const MainContent = () => {
             <MainTitle>Portfolio</MainTitle>
             <div className="md:w-1/2 md:mx-auto">
               <NormalText>
-                Amet minim mollit non deserunt ullamco est sit aliqua dolor do
-                amet sint. Velit officia consequat duis enim velit mollit. lorem
-                ipsum
+                I present my latest projects that demonstrate my web development
+                skills, including a restaurant recommendation app, a
+                user-friendly calculator, and a management system for academic
+                requests.
               </NormalText>
             </div>
           </div>

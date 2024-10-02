@@ -10,9 +10,10 @@ const Hero = () => {
         <HeroTitle></HeroTitle>
         <div className="md:w-1/2">
           <NormalText>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et,
-            volutpat feugiat placerat lobortis. Natoque rutrum semper sed
-            suspendisse nunc lectus.
+            I love learning new things and I easily adapt to new professional
+            challenges. With a constant focus on personal and professional
+            growth, I enjoy tackling challenges and finding innovative solutions
+            to enhance user experience and web development.
           </NormalText>
         </div>
         <div className="mt-9 flex justify-center md:block">

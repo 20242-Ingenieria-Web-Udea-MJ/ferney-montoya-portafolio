@@ -16,17 +16,7 @@ const PersonalDescription = () => {
       <li>
         <div className="flex justify-between mb-2">
           <NormalText color="text-black" fontSize="text-sm">
-            Residence:
-          </NormalText>
-          <NormalText color="text-black" fontSize="text-sm">
-            BD
-          </NormalText>
-        </div>
-      </li>
-      <li>
-        <div className="flex justify-between mb-2">
-          <NormalText color="text-black" fontSize="text-sm">
-            Freelance:
+            Status:
           </NormalText>
           <NormalText color="text-black" fontSize="text-sm">
             Available
@@ -39,7 +29,7 @@ const PersonalDescription = () => {
             Address:
           </NormalText>
           <NormalText color="text-black" fontSize="text-sm">
-            Dhaka,Bangladesh
+            Medellín,Colombia
           </NormalText>
         </div>
       </li>
